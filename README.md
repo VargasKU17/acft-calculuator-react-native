@@ -1,2 +1,4 @@
 # acft-calculuator-react-native
-This is an updated project from the vanilla JS Army Combat Fitness alculator 
+This is an updated project from the vanilla JS Army Combat Fitness Test calulator I made earlier. The ACFT is the fitness test used by the US Army to evaluate fitness, which is an important aspect of life for US Army soliders. There are a possible total of 600 points based off of six events that each have a max of 100 points. This is designed to be a quick and user friendly way for soldiers to calculate their ACFT scores. 
+
+It differs from the original by having styling that includes buttons to adjust the measurements of performance (meters thrown, pounds lifted, reps performed and time completed) instead of user input. In addition the total score and score per event both adjust after each increment/decrement. Before the total score was shown at the end. This improves UX so that the user can see both their actual score and how they could adjust performance for a future target score. 
